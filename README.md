@@ -7,7 +7,7 @@
 <div align="center">
 
 <pre>
-Hi, I'm Ngoc Mai
+Hi, I'm Duy Hưng
 </pre>
 
 <h2>🌌 MY SKILL CONSTELLATION 🌌</h2>
