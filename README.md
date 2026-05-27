@@ -1,9 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&section=header&text=Pham%20Duy%20Hung&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=FPT%20University%20IT%20Student%20%7C%20Future%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24,30&section=header&text=Pham%20Duy%20Hung&fontSize=46&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=FPT%20University%20IT%20Student%20%7C%20Future%20Software%20Engineer%20in%20Japan&descSize=18&descAlignY=58" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Duy+Hung;IT+Student+at+FPT+University;Learning+C%2C+Java%2C+React%2C+.NET%2C+Dart;Frontend+%7C+Backend+%7C+Software+Development;Future+Software+Engineer+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://github.com/HungPD0726.png" width="170" height="170" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi, I'm Duy Hung 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=FPT+University+IT+Student;Learning+C%2C+Java%2C+React%2C+.NET%2C+Dart;Frontend+Developer+in+Progress;Passionate+about+Technology+and+Design;Future+Software+Engineer+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HungPD0726&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HungPD0726?style=for-the-badge&color=36BCF7&labelColor=1A1B27" />
 </p>
 
 ---
@@ -15,20 +26,24 @@
 </p>
 
 <p align="center">
-  I am an IT student at <b>FPT University</b> who is passionate about software development, UI design, and building useful digital products.
+  I am an IT student at <b>FPT University</b> who loves technology, design, and building useful digital products.
   <br/>
-  Currently learning <b>C, Java, React, .NET, Dart, Frontend Development</b> and improving my skills every day.
+  Currently learning <b>C, Java, React, .NET, Dart, Frontend Development, Git, Figma and Docker</b>.
   <br/>
   My goal is to become a <b>Software Engineer in Japan 🇯🇵</b>.
 </p>
 
 <br/>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" />
+</p>
+
 ---
 
 <h2 align="center">🚀 TECH STACK 🚀</h2>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,js,ts,dart&perline=5" />
@@ -40,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" />
 </p>
 
-<h3 align="center">⚙️ Backend & Frameworks</h3>
+<h3 align="center">⚙️ Backend & Database</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring,mongodb,mysql&perline=5" />
@@ -51,8 +66,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&perline=5" />
 </p>
-
-<br/>
 
 ---
 
@@ -73,8 +86,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<br/>
-
 ---
 
 <h2 align="center">🧳 MY JOURNEY 🧳</h2>
@@ -82,21 +93,22 @@
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <h3>🎓 Education</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="60" />
+      <h3>Education</h3>
       <p>FPT University<br/>Information Technology</p>
     </td>
     <td align="center" width="250">
-      <h3>💻 Focus</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60" />
+      <h3>Focus</h3>
       <p>Frontend, Backend<br/>Software Development</p>
     </td>
     <td align="center" width="250">
-      <h3>🎯 Goal</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="60" />
+      <h3>Goal</h3>
       <p>Software Engineer<br/>in Japan 🇯🇵</p>
     </td>
   </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -111,8 +123,6 @@
   <img src="https://streak-stats.demolab.com?user=HungPD0726&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
-
 ---
 
 <h2 align="center">📈 ACTIVITY GRAPH 📈</h2>
@@ -121,7 +131,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HungPD0726&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
-<br/>
+---
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE 🐍</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HungPD0726/HungPD0726/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -137,10 +153,6 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HungPD0726&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer" width="100%" />
