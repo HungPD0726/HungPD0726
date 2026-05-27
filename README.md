@@ -133,14 +133,6 @@
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE 🐍</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HungPD0726/HungPD0726/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 <h2 align="center">🌐 CONNECT WITH ME 🌐</h2>
 
 <p align="center">
