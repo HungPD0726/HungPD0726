@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24,30&section=header&text=Pham%20Duy%20Hung&fontSize=46&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=FPT%20University%20IT%20Student%20%7C%20Future%20Software%20Engineer%20in%20Japan&descSize=18&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24,30&section=header&text=Pham%20Duy%20Hung&fontSize=46&fontAlignY=38&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Duy Hung 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=FPT+University+IT+Student;Learning+C%2C+Java%2C+React%2C+.NET%2C+Dart;Frontend+Developer+in+Progress;Passionate+about+Technology+and+Design;Future+Software+Engineer+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=FPT+University+IT+Student;Learning+C%2C+Java%2C+React%2C+.NET;Building+Full-Stack+Applications;Open+to+Opportunities+🚀" />
 </p>
 
 <p align="center">
@@ -31,6 +31,8 @@
   Currently learning <b>C, Java, React, .NET, Dart, Frontend Development, Git, Figma and Docker</b>.
   <br/>
   My goal is to become a <b>Software Engineer in Japan 🇯🇵</b>.
+  <br/>
+  <b>💼 Open to collaboration and new opportunities!</b>
 </p>
 
 <br/>
@@ -71,16 +73,24 @@
 
 <h2 align="center">⭐ FEATURED SKILLS ⭐</h2>
 
+<h3 align="center">Proficiency Levels</h3>
+
 <p align="center">
+  <b>🔥 Advanced:</b>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-36BCF7?style=for-the-badge&logo=html5&logoColor=white" />
+  <b>📈 Intermediate:</b>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <b>🛠 Tools & Others:</b>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -109,6 +119,43 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">📚 FEATURED PROJECTS 📚</h2>
+
+<p align="center">
+  Check out my repositories to see what I'm working on! Here are some highlights:
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Featured Project 1</h3>
+      <p>
+        A modern full-stack application built with React and .NET
+        <br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎯 Featured Project 2</h3>
+      <p>
+        JavaFX desktop application with database integration
+        <br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/HungPD0726?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-36BCF7?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -142,6 +189,13 @@
   <a href="https://github.com/HungPD0726">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💡 Feel free to reach out for collaborations or just a friendly tech chat!</i>
 </p>
 
 <br/>
